@@ -1,4 +1,4 @@
-# Amor de 4 Patas Base
+ggo# Amor de 4 Patas Base
 
 Tema base leve para WordPress com foco em performance, código próprio e Webpack.
 
